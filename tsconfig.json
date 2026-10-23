@@ -1,0 +1,1 @@
+{"compilerOptions":{"module":"ESNext","moduleResolution":"bundler","noEmit":true,"noUnusedLocals":true,"noUnusedParameters":true,"skipLibCheck":true,"strict":true,"target":"ES2022"},"include":["src","tests","vite.config.ts"]}
